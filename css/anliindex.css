@@ -1,0 +1,37 @@
+footer{
+	background-color: #ccc;
+	text-align: center;
+	padding:20px
+}
+#dv{
+	margin-top:50px;
+}
+#dv2{
+	margin-top:50px;
+}
+.two img{
+	width:250px;
+	height:230px;
+}
+/*ul.nav-pills{
+			width:200px;
+}
+ul.nav-pills.affix{
+	top:30px;
+}
+.affix-top>li:nth-of-type(1){
+	background-color:#337ab7;
+	border-radius:4px;
+}
+.affix-top>li:nth-of-type(1)>a{
+	color:#fff;
+}*/
+#sheji a{
+	text-decoration:none;
+	color:#92725D;
+	display:block;
+	padding-right:20px;
+}
+#collapse{
+	background-color:#fff;
+}
